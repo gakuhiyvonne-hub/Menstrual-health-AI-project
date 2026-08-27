@@ -1,0 +1,35 @@
+
+
+MENSTRUAL HEALTH AI PROJECT
+
+
+ DATASET OVERVIEW
+- Total cycles analyzed: 17,976
+- Average pain level: 4.85/10
+- Pain range: 1 to 10/10
+
+ KEY FINDINGS
+- PMS increases pain by: 0.59 points
+- Heavy flow pain: 7.32/10
+- Light flow pain: 3.32/10
+- Luteal phase pain: 5.01/10
+- Follicular phase pain: 4.73/10
+
+ AI MODEL
+- Model Type: Random Forest Regressor
+- Features: PMS, Flow Level, Mood, Stress
+- Accuracy: Predicts within 0.5 points on average
+
+ HOW TO USE THE AI PREDICTOR
+1. Run the prediction cell
+2. Enter your symptoms:
+   - Do you have PMS? (yes/no)
+   - Flow level (light/moderate/heavy)
+   - Mood score (1-10, 10 = great mood)
+   - Stress level (1-10, 10 = very stressed)
+3. The AI will predict your pain level
+4. Get personalized recommendations
+
+Created: April 2026
+By: Yvonne Gakuhi
+
